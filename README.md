@@ -1,58 +1,88 @@
-# Hi, I'm a Computer Science Graduate 👋
+👋 Hey there! I'm Arslan Asad — a Full Stack & Mobile Developer from Lahore, Pakistan.
 
-🎓 **BS Computer Science Graduate** from the **University of Central Punjab**  
-💻 **Aspiring Software Developer | Backend | Full-Stack**  
-🌱 Passionate about learning, building projects, and growing as a developer
+I don't just write code — I build complete, real-world products from scratch.
+From pixel-perfect mobile UIs to robust backend APIs, I handle the full journey.
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 👨‍💻 About Me
+🧠 ABOUT ME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I am a fresh Computer Science graduate with a strong interest in software development. During my academic journey, I built a solid foundation in programming using **C++** and **Python**, and expanded my skill set into modern web development.
+🎓 Computer Science Graduate — University of Central Punjab, Lahore
+💼 Former Full Stack Mobile Developer @ Tablogix
+🚀 Passionate about building scalable apps that solve real problems
+🌍 Based in Lahore, Pakistan — open to remote & on-site opportunities
+📬 arslan.asad0101@gmail.com
 
-I have hands-on experience with **HTML, CSS, JavaScript, and React.js** for frontend development, along with **basic backend development using Node.js and Express.js**. I enjoy working on practical projects that help me improve my problem-solving skills and understand real-world application development.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I am currently seeking **entry-level opportunities** as a **Backend Developer, Full-Stack Developer, or Software Developer**.
+⚙️ TECH STACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+📱 Mobile     →   React Native · Expo · TypeScript
+🌐 Frontend   →   React.js · HTML5 · CSS3 · JavaScript (ES6+)
+🔧 Backend    →   Node.js · Express.js · REST APIs
+🗄️ Database   →   Supabase · MongoDB
+🛠️ Tools      →   Git · GitHub · Selenium · Expo Go
 
-## 🛠️ Technical Skills
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Programming Languages**
-- C++
-- Python
-- JavaScript
+💼 EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Frontend Development**
-- HTML
-- CSS
-- React.js
+🏢 Tablogix — Full Stack Mobile Developer  (Jan 2026 – Mar 2026)
 
-**Backend Development**
-- Node.js
-- Express.js
+   ▸ Built cross-platform mobile apps using React Native & Expo
+   ▸ Designed and integrated REST APIs with Node.js & Express.js
+   ▸ Handled authentication systems & Supabase database integration
+   ▸ Improved app performance and delivered better user experiences
 
-**Tools & Technologies**
-- Git
-- GitHub
-- REST APIs
-- Basic Database Concepts
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+🚀 FEATURED PROJECTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🎯 Career Goals
+🤖 Taskify — AI-Powered Task Management App
+   React Native · Node.js · Supabase · AI Integration
+   ▸ Full-stack mobile app with AI that automates task creation
+   ▸ Designed complete frontend + backend architecture from scratch
+   ▸ Built to improve personal and team productivity
 
-- Secure an entry-level role as a **Backend / Full-Stack / Software Developer**
-- Build scalable and maintainable applications
-- Continuously improve coding, system design, and problem-solving skills
+🎵 AudioScope — Cross-Platform Mobile App
+   React Native · Expo · TypeScript
+   ▸ Clean, reusable component architecture
+   ▸ Smooth cross-platform experience on iOS & Android
 
----
+🧠 Quiz Application — Interactive Web App
+   React.js · Vite
+   ▸ Dynamic question engine with real-time score tracking
+   ▸ Fast, responsive, and lightweight
 
-## 📫 Contact & Profiles
+🔐 Selenium Login Automation
+   Python · Selenium
+   ▸ Automated login flow testing for web applications
+   ▸ Demonstrates QA and test automation skills
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/arslan-asad-248a58363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📧 **Email:** arslan.asad0101@gmail.com
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+📈 WHAT I'M FOCUSED ON RIGHT NOW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⭐ *Feel free to explore my repositories and connect with me!*
+   🔹 Deepening my backend & system design knowledge
+   🔹 Exploring AI integration in mobile applications
+   🔹 Contributing to open source projects
+   🔹 Seeking my next full-time opportunity as a Software Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 LET'S CONNECT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 Portfolio   →   majestic-cupcake-c4a3b2.netlify.app
+💼 LinkedIn    →   linkedin.com/in/arslan-asad-248a58363
+📧 Email       →   arslan.asad0101@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ If you find my work interesting, feel free to star a repo or drop me a message.
+   I'm always open to collaborating, learning, and building something great together.
